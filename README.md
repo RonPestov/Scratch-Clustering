@@ -3,6 +3,7 @@
 Hello,
 
 Need scikit-learn library to run. Link for install: https://scikit-learn.org/stable/install.html
+
 cluster.py is run with Python3 and needs to have a correct path to the input file. I had mine saved on the desktop, so file path will be different for you.
 
 Problems:
